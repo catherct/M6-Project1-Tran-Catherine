@@ -8,7 +8,6 @@ public class MonthConverterSwitch {
         Scanner myScanner = new Scanner(System.in);
 
         //prompt user to enter a number between 1 and 12
-        //    I wonder if there is an easier way to organize these months,,
         System.out.println("Please choose one of the following months:");
             System.out.println("\t" + "Press 1 for January");
             System.out.println("\t" + "Press 2 for February");

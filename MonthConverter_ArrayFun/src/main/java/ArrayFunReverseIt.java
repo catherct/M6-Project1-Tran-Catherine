@@ -13,6 +13,7 @@ public class ArrayFunReverseIt {
             System.out.println(element);
         }
 
+        //display user input
         System.out.println("\n" + "This is the reverse order.");
 
         //declare reverse of originalArray
